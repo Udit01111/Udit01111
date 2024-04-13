@@ -5,9 +5,9 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- [![An image of @udit01111's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/udit01111)](https://holopin.io/@udit01111)
+- ![image](https://github.com/Udit01111/Udit01111/assets/150335620/e190d7f7-c055-4c1e-b272-c69e7fb0e13b)
 
-<!---
+- 
 Udit01111/Udit01111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
