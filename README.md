@@ -1,6 +1,6 @@
-# Hi 👋, I'm [Udit]
+# Hi 👋, I'm Udit
 
-![Your Profile Picture](https://i.ibb.co/c3jcfxG/Untitled-design-3.png) <!-- Replace # with your image link -->
+![Your Profile Picture](<a href="https://ibb.co/Rbqpr7x"><img src="https://i.ibb.co/c3jcfxG/Untitled-design-3.png" alt="Untitled-design-3" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>image uploader</a><br />) <!-- Replace # with your image link -->
 
 ### 🕰 About Me:
 - **Current Role**: [Your Role Here] at [Your Company/Organization Here]
