@@ -43,50 +43,43 @@
 
 ---
 
-### 🔄 GitHub Stats (Auto-Updating in Real-Time)
-<div align="center">
+### 🔄 My GitHub Stats
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=udit01111&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=udit01111&layout=compact&theme=radical&hide_border=true)  
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-  ![GitHub Streak](https://streak-stats.demolab.com?user=udit01111&theme=radical&hide_border=true)  
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=udit01111&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="400px" />
+  </div>
 
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=udit01111&theme=radical&hide_border=true)  
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udit01111&layout=compact&theme=radical&hide_border=true" width="400px" />
+  </div>
 
 </div>
 
 ---
 
-### 📊 Activity:
+### 📊 Contribution Graph
 
-<table align="center">
-  <thead>
-    <tr>
-      <th>Category</th>
-      <th>Count</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Total Commits</strong></td>
-      <td>`XX`</td>
-    </tr>
-    <tr>
-      <td><strong>Repositories</strong></td>
-      <td>`XX`</td>
-    </tr>
-    <tr>
-      <td><strong>Pull Requests</strong></td>
-      <td>`XX`</td>
-    </tr>
-    <tr>
-      <td><strong>Contributions</strong></td>
-      <td>`XX`</td>
-    </tr>
-  </tbody>
-</table>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=udit01111&theme=radical&hide_border=true" width="800px" />
+</div>
 
 ---
+### 🏆 GitHub Streak
+
+<div align="center">
+  <img src="https://streak-stats.vercel.app/?user=udit01111&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+
+---
+
+### 
+
+
+    
+
 
 ### ✨ Connect With Me:
 
