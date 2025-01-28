@@ -1,31 +1,29 @@
 # Hi 👋, I'm Udit
-<div align="right" style="margin-top: -100px width=100 height=50";>
+
+<div align="right" style="margin-top: -40px;">
   <img src="https://i.postimg.cc/c45nWrL5/mp-removebg-preview.png" 
        alt="Profile Image" 
-       width="200" 
-       style="border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3); margin-top: 10px;"/>
+       width="180" 
+       style="border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"/>
 </div>
 
-
 ### 🕰 About Me:
-- *Aspiring Computer Science Engineering professional with a strong foundation in programming, data structures, and
- algorithms and interpersonal skills.Love to contribute to innovative projects, enhance my software development skills, and grow within a dynamic
- and fast-paced environment. Committed to continuous learning, problem-solving, and delivering quality results.*
+- *Aspiring Computer Science Engineering professional with a strong foundation in programming, data structures, algorithms, and interpersonal skills. I love contributing to innovative projects, enhancing my software development skills, and growing within a dynamic and fast-paced environment. Committed to continuous learning, problem-solving, and delivering quality results.*
 - **Current Role**: Student at Chandigarh University
-- **Education**: Bachelor Of Engineering Computer Science
-- **Hobbies/Interests**: Running, Trekking, Painting, Reading about latest techs
+- **Education**: Bachelor of Engineering (Computer Science)
+- **Hobbies/Interests**: Running, Trekking, Painting, Reading about the latest tech trends
 
 ---
 
 ### ⏳ Currently Working On:
-- **Portfolio Website**:- An expression of my skills and learning so far
-- **TruckBid**:A revolutionary mobile app designed to transform the Indian transportation landscape. It aims to connect shippers with truck drivers through a transparent and efficient bidding system, empowering businesses to save, drivers to earn more, and fostering a more robust and sustainable transportation ecosystem.
-
+- **Portfolio Website**: An expression of my skills and learning so far  
+- **TruckBid**: A revolutionary mobile app designed to transform the Indian transportation landscape. It aims to connect shippers with truck drivers through a transparent and efficient bidding system, empowering businesses to save money, drivers to earn more, and fostering a robust and sustainable transportation ecosystem.
 
 ---
 
-### ✨ What Drives ME?:
-> *Believe in having faith in your own capabilities with a never-give-up attitude to add a sauce of success to your life.* **Until you spread your wings, you’ll never know how far you can fly!**
+### ✨ What Drives Me?
+> *Believe in having faith in your own capabilities with a never-give-up attitude to add a sauce of success to your life.*  
+> **Until you spread your wings, you’ll never know how far you can fly!**
 
 ---
 
@@ -45,65 +43,57 @@
 
 ---
 
-### 🔄 GitHub Stats:
+### 🔄 GitHub Stats (Auto-Updating in Real-Time)
+<div align="center">
 
-<div style="animation: fadeIn 2s ease-in-out;">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
-</div>
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=udit01111&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=udit01111&layout=compact&theme=radical&hide_border=true)  
 
-<div style="animation: fadeInUp 2s ease-in-out;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages">
+  ![GitHub Streak](https://streak-stats.demolab.com?user=udit01111&theme=radical&hide_border=true)  
+
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=udit01111&theme=radical&hide_border=true)  
+
 </div>
 
 ---
 
 ### 📊 Activity:
 
-<div style="animation: bounceIn 2s;">
-  <table>
-    <thead>
-      <tr>
-        <th>Category</th>
-        <th>Count</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>Total Commits</strong></td>
-        <td>`XX`</td>
-      </tr>
-      <tr>
-        <td><strong>Repositories</strong></td>
-        <td>`XX`</td>
-      </tr>
-      <tr>
-        <td><strong>Pull Requests</strong></td>
-        <td>`XX`</td>
-      </tr>
-      <tr>
-        <td><strong>Contributions</strong></td>
-        <td>`XX`</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+<table align="center">
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Count</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Total Commits</strong></td>
+      <td>`XX`</td>
+    </tr>
+    <tr>
+      <td><strong>Repositories</strong></td>
+      <td>`XX`</td>
+    </tr>
+    <tr>
+      <td><strong>Pull Requests</strong></td>
+      <td>`XX`</td>
+    </tr>
+    <tr>
+      <td><strong>Contributions</strong></td>
+      <td>`XX`</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 ### ✨ Connect With Me:
 
-<div style="animation: slideInRight 2s;">
-  <ul>
-    <li>LinkedIn: https://www.linkedin.com/in/udit011/</li>
-    <li>Twitter: [Your Twitter Profile Here](#)</li>
-    <li>Portfolio: [Your Website/Portfolio Link Here](#)</li>
-    <li>Email: udit40115@gmail.com</li>
-  </ul>
-</div>
+- **LinkedIn**: [linkedin.com/in/udit011](https://www.linkedin.com/in/udit011/)  
+- **Portfolio**: Coming soon!  
+- **Email**: udit40115@gmail.com  
 
 ---
 
-> "[Insert Your Favorite Quote Here]"
-
----
-
+> *"A good network is the ultimate net worth, let's catch up and brew something great together!"*
