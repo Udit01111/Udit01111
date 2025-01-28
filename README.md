@@ -1,9 +1,8 @@
 # Hi 👋, I'm Udit
-
 <div align="right" style="margin-top: -40px;">
   <img src="https://i.postimg.cc/c45nWrL5/mp-removebg-preview.png" 
        alt="Profile Image" 
-       width="180" 
+       width="200" 
        style="border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"/>
 </div>
 
@@ -12,6 +11,21 @@
 - **Current Role**: Student at Chandigarh University
 - **Education**: Bachelor of Engineering (Computer Science)
 - **Hobbies/Interests**: Running, Trekking, Painting, Reading about the latest tech trends
+
+---
+
+### 🔥 Competitive Programming Dashboard  
+
+<div align="center" style="display: flex; flex-direction: column; align-items: center;">
+
+  <h3 style="color: white;">LEETCODE ACTIVITY</h3>
+  <img src="https://leetcard.jacoblin.cool/Udit0001?theme=dark&ext=activity" width="400px" alt="LeetCode Stats" />
+
+  <h3 style="color: white; margin-top: 20px;">GFG ACTIVITY</h3>
+  <a href="https://www.geeksforgeeks.org/user/udit477f0/" target="_blank">
+    <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" width="150px" alt="GFG Profile" />
+  </a>
+</div>
 
 ---
 
