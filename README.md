@@ -7,7 +7,7 @@
 
 <!-- Profile Image -->
 <div align="left">
-  <img src="https://i.postimg.cc/c45nWrL5/mp-removebg-preview.png" 
+  <img src="https://i.postimg.cc/GpCtw75q/mp-removebg-preview.png" 
        alt="Profile Image" 
        width="250" 
        style="border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3); "/>
