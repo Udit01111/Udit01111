@@ -1,10 +1,19 @@
 # Hi 👋, I'm Udit
-<div align="right" style="margin-top: -40px;">
+
+<div align="left">
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=20&color=FFD700&width=450&lines=I+am+a+Developer+....;I+am+a+Coder+....;I+brew+code+with+boots+...." alt="Typing Animation" />
+</div>
+
+<!-- Profile Image -->
+<div align="left">
   <img src="https://i.postimg.cc/c45nWrL5/mp-removebg-preview.png" 
        alt="Profile Image" 
-       width="200" 
-       style="border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"/>
+       width="250" 
+       style="border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3); "/>
 </div>
+
+
 
 ### 🕰 About Me:
 - *Aspiring Computer Science Engineering professional with a strong foundation in programming, data structures, algorithms, and interpersonal skills. I love contributing to innovative projects, enhancing my software development skills, and growing within a dynamic and fast-paced environment. Committed to continuous learning, problem-solving, and delivering quality results.*
