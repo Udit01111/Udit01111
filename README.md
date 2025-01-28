@@ -9,9 +9,9 @@
 
 <!-- Profile Image -->
 <div align="center">
-  <img src="https://i.postimg.cc/GpCtw75q/mp-removebg-preview.png" 
+  <img src="https://i.postimg.cc/hGPWfH6h/Student-Entrepreneur-ff.png" 
        alt="Profile Image" 
-       width="250" 
+       width="500" 
        style="border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3); "/>
 </div>
 
