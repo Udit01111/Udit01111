@@ -1,12 +1,14 @@
 # Hi 👋, I'm Udit
 
-<div align="left">
+<div align="center">
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=20&color=FFD700&width=450&lines=I+am+a+Developer+....;I+am+a+Coder+....;I+brew+code+with+boots+...." alt="Typing Animation" />
+ <img src="https://readme-typing-svg.demolab.com?font=Anton&size=28&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=600&height=60&lines=+I+am+a+Developer+🚀;I+am+a+Coder+💻;I+Brew+Code+With+Boots+🔥" alt="Typing Animation" />
+
+
 </div>
 
 <!-- Profile Image -->
-<div align="left">
+<div align="center">
   <img src="https://i.postimg.cc/GpCtw75q/mp-removebg-preview.png" 
        alt="Profile Image" 
        width="250" 
@@ -18,7 +20,11 @@
 ### 🕰 About Me:
 - *Aspiring Computer Science Engineering professional with a strong foundation in programming, data structures, algorithms, and interpersonal skills. I love contributing to innovative projects, enhancing my software development skills, and growing within a dynamic and fast-paced environment. Committed to continuous learning, problem-solving, and delivering quality results.*
 - **Current Role**: Student at Chandigarh University
-- **Education**: Bachelor of Engineering (Computer Science)
+- **Education**:
+  1. Bachelor of Engineering (Computer Science) (2022-2026)
+  2. Bachelor of Science in Chemistry (National Defence Academy affiliated to JNU) (2020-2022)
+
+
 - **Hobbies/Interests**: Running, Trekking, Painting, Reading about the latest tech trends
 
 ---
