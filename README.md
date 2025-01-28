@@ -1,22 +1,31 @@
 # Hi 👋, I'm Udit
+<div align="right" style="margin-top: -100px width=100 height=50";>
+  <img src="https://i.postimg.cc/c45nWrL5/mp-removebg-preview.png" 
+       alt="Profile Image" 
+       width="200" 
+       style="border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3); margin-top: 10px;"/>
+</div>
 
-![Your Profile Picture](<a href="https://ibb.co/Rbqpr7x"><img src="https://i.ibb.co/c3jcfxG/Untitled-design-3.png" alt="Untitled-design-3" border="0"></a>) <!-- Replace # with your image link -->
 
 ### 🕰 About Me:
-- **Current Role**: [Your Role Here] at [Your Company/Organization Here]
-- **Education**: [Your Education Here]
-- **Interests**: [Your Interests Here]
+- *Aspiring Computer Science Engineering professional with a strong foundation in programming, data structures, and
+ algorithms and interpersonal skills.Love to contribute to innovative projects, enhance my software development skills, and grow within a dynamic
+ and fast-paced environment. Committed to continuous learning, problem-solving, and delivering quality results.*
+- **Current Role**: Student at Chandigarh University
+- **Education**: Bachelor Of Engineering Computer Science
+- **Hobbies/Interests**: Running, Trekking, Painting, Reading about latest techs
 
 ---
 
 ### ⏳ Currently Working On:
-- [Project 1]
-- [Project 2]
+- **Portfolio Website**:- An expression of my skills and learning so far
+- **TruckBid**:A revolutionary mobile app designed to transform the Indian transportation landscape. It aims to connect shippers with truck drivers through a transparent and efficient bidding system, empowering businesses to save, drivers to earn more, and fostering a more robust and sustainable transportation ecosystem.
+
 
 ---
 
-### ✨ Motto:
-> Believe in having faith in your own capabilities with a never-give-up attitude to add a sauce of success to your life. Until you spread your wings, you’ll never know how far you can fly!
+### ✨ What Drives ME?:
+> *Believe in having faith in your own capabilities with a never-give-up attitude to add a sauce of success to your life.* **Until you spread your wings, you’ll never know how far you can fly!**
 
 ---
 
@@ -85,10 +94,10 @@
 
 <div style="animation: slideInRight 2s;">
   <ul>
-    <li>LinkedIn: [Your LinkedIn Profile Here](#)</li>
+    <li>LinkedIn: https://www.linkedin.com/in/udit011/</li>
     <li>Twitter: [Your Twitter Profile Here](#)</li>
     <li>Portfolio: [Your Website/Portfolio Link Here](#)</li>
-    <li>Email: [Your Email Here](#)</li>
+    <li>Email: udit40115@gmail.com</li>
   </ul>
 </div>
 
@@ -98,12 +107,3 @@
 
 ---
 
-## How to Customize:
-1. Replace **[Your Name Here]**, **[Your Role Here]**, **[Your Education Here]**, and other placeholders with your information.
-2. For the profile picture, upload your image to any image hosting platform (e.g., Imgur) and replace `#` with the image URL.
-3. Replace `yourusername` in GitHub stats URLs with your actual GitHub username.
-4. Add links to your social profiles and portfolio under "Connect With Me".
-5. Update skills as per your expertise by adding/removing badges.
-6. Update the "GitHub Stats" table with accurate values from your GitHub profile or automate it using GitHub Actions if required.
-
-If you'd like further help or automated integration, let me know!
