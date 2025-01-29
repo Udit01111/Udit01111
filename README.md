@@ -40,6 +40,12 @@
   <a href="https://www.geeksforgeeks.org/user/udit477f0/" target="_blank">
     <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" width="150px" alt="GFG Profile" />
   </a>
+  
+<h3 style="color: white; margin-top: 20px;">CODECHEF ACTIVITY</h3>
+<a href="https://www.codechef.com/users/udit40115" target="_blank">
+  <img src="https://cdn.codechef.com/images/cc-logo.svg" width="240px" alt="CodeChef Logo" />
+</a>
+  
 </div>
 
 ---
